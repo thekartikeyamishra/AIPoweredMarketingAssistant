@@ -127,10 +127,6 @@ Dependencies include:
 ## **Contributions**
 Contributions are welcome! Fork the repository, submit pull requests, or raise issues to improve this project.
 
----
-
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
